@@ -12,8 +12,8 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - "**Wenzhuo Zhou**<sup>\\leq</sup>"
-  - Robert Ford^{*}
+  - Wenzhuo Zhou*
+  - Robert Ford*
 author_notes: []
 publication: In *Wowchemy Conference*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
@@ -21,11 +21,11 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: In *JASA*
 url_source: ""
 url_video: ""
 title: An example conference paper
-subtitle: ssss
+subtitle: ""
 doi: ""
 featured: true
 tags: []
