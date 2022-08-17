@@ -12,7 +12,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin*
+  - "**Wenzhuo Zhou** *"
   - Robert Ford*
 author_notes: []
 publication: In *Wowchemy Conference*
