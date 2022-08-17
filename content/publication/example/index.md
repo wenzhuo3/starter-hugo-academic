@@ -26,7 +26,7 @@ url_project: ""
 publication_short: In *JASA*
 url_source: ""
 url_video: ""
-title: An example conference paper
+title: "[An example conference paper](www.google.com)"
 subtitle: ""
 doi: ""
 featured: true
