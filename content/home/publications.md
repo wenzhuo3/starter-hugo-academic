@@ -3,7 +3,7 @@ widget: pages
 widget_id: ss
 headless: true
 weight: 90
-title: Recent Publications
+title: Publications
 subtitle: ""
 content:
   filters:
@@ -23,4 +23,4 @@ design:
   view: citation
   columns: "2"
 ---
-$*$ indicate equal contribution
+\* indicate equal contribution
