@@ -12,9 +12,11 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - __Wenzhuo Zhou__*
-  - Robert Ford*
-author_notes: []
+  - admin
+  - Robert Ford
+author_notes:
+  - "*"
+  - "*"
 publication: In *Wowchemy Conference*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
