@@ -23,8 +23,4 @@ design:
   view: citation
   columns: "2"
 ---
-{{% callout note %}}
-
-\*indicate equal contribution
-
-{{% /callout %}}
+$*$ indicate equal contribution
